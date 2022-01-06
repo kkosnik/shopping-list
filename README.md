@@ -1,3 +1,6 @@
 - yogurt
 - granola
 - blueberries
+- turkey
+- cheese
+- sandwich bread
